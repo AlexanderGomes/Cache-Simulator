@@ -53,4 +53,4 @@ The cache simulator models the behavior of a multi-core processor with two cores
 
 1. **Compile the Code:**
    ```sh
-   g++ -std=c++11 cache_simulator.cpp -o cache_simulator
+   g++ -std=c++20 cache_simulator.cpp -o cache_simulator
